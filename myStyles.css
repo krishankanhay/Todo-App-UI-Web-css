@@ -1,0 +1,226 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    margin-top: 40px;
+    margin-left: 220px;
+    margin-right: 304px;
+    height: 900px;
+    background-color: #f7f7f7;
+
+    display: inline-block;
+}
+
+.overlay
+{
+    height: 70vh;
+    width: 70vw;
+}
+.nav
+{
+    margin-left: 0px;
+    margin-right: 1px;
+    height: 70px;
+    background-color: #FFFFFF;
+}
+.AddP
+{
+    margin-left: 630px;
+    padding: 12px;
+}
+.spanP
+{
+    font-size: 42px;
+    color: cornflowerblue;
+    padding:12px;
+}
+.AddT
+{
+    font-size: 20px;
+    padding:20px;
+    text-decoration-line:none;
+    color:black;
+}
+.peram
+{
+    font-size: 36px;
+    margin-left: 116px;
+    padding: 12px;
+}
+span
+{
+    word-spacing: 5px;
+    margin-left: 8px;
+    padding: 12px;
+    color: cornflowerblue;
+}
+.peram1
+{
+    font-size: 20px;
+    padding: 10%;
+    font-size: 20px;
+    color: cornflowerblue;
+}
+.Tripindex
+{
+    font-size: 20px;
+    padding: 10%;
+    font-size: 20px;
+    color: cornflowerblue;
+    text-decoration-line:none;
+}
+.box1
+{
+    width: 261px;
+    height: 290px;
+    background-color: #FFFFFF;
+    margin-top: 105px;
+    margin-left: 60px;
+    border-radius: 15px;
+    display: block;
+    /* filter: blur(2px); */
+}
+.box1A:hover
+{
+    box-shadow: 5px 5px 10px #a5a7ad;
+}
+.box2
+{
+    width: 261px;
+    height: 290px;
+    background-color: #FFFFFF;
+    margin-top: -289px;
+    margin-left: 342px;
+    border-radius: 15px;
+}
+.box2A:hover
+{
+    box-shadow: 5px 5px 10px #a5a7ad;
+}
+.box3
+{
+    width: 261px;
+    height: 290px;
+    background-color: #FFFFFF;
+    margin-top: -289px;
+    margin-left: 625px;
+    border-radius: 15px;
+}
+.box3A:hover
+{
+    box-shadow: 5px 5px 10px #a5a7ad;
+}
+.box4
+{
+    width: 261px;
+    height: 290px;
+    background-color: #FFFFFF;
+    margin-top: 46px;
+    margin-left: 66px;
+    border-radius: 15px;
+}
+.box4A:hover
+{
+    box-shadow: 5px 5px 10px #a5a7ad;
+}
+.box5
+{
+    width: 261px;
+    height: 290px;
+    background-color: #FFFFFF;
+    margin-top: -291px;
+    margin-left: 348px;
+    border-radius: 15px;
+}
+.box5A:hover
+{
+    box-shadow: 5px 5px 10px #a5a7ad;
+}
+.input
+{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.del
+{
+    margin-left: 10px;
+    color: gray;
+}
+.dela
+{
+    margin-left: 10px;
+    color: rgb(81, 80, 80);
+}
+.input2a
+{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+
+
+/* ---------------------------------new_list3.html----------------------------------- */
+
+.overlay3
+{
+    filter: blur(2px);
+}
+.pop-up:hover{
+    box-shadow: 5px 5px 10px #a5a7ad;
+}
+.pop-up{
+
+    position: absolute;
+    background-color: #ffffff;
+    top: 180px;
+    left: 430px;    
+    width: 400px;
+    height: 180px;
+    padding: 5px;
+    border-radius: 10px;
+}
+.new_task-title{
+    display: flex;
+    justify-content: space-between;
+    height: 55px;
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 10px;
+}
+.cancel-btn{
+    height: 30px;
+    width: 30px;
+}
+.input-box{
+    height: 55px;
+    text-align: center;
+    padding-top: 5px;
+}
+.input_nl3{
+    height: 35px;
+    width: 100%;
+    padding-left: 15px;
+}
+.new_task-button{
+    height: 55px;
+}
+.btn1{
+    background-color: #00b7ff;
+    border: none;
+    padding: 10px 30px;
+    color: white;
+    border-radius: 3px;
+    position: relative;
+    top:10px;
+    left: 260px;
+}
+
+
+
+
+
